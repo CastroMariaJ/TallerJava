@@ -1,0 +1,4 @@
+*.class
+salida/
+**/out/
+agenda.txt
