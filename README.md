@@ -20,4 +20,12 @@ métodos y el comportamiento solicitado en el taller.
 El menú principal es `tallerjava.inicio.MenuPrincipal`; permite elegir del 1 al 5 y
 usa 0 para salir.
 
+## Archivos individuales
+
+También se incluyen versiones sencillas, con un archivo por ejercicio:
+`Ejercicio1Cajero.java`, `Ejercicio2RegistroAcademico.java`,
+`Ejercicio3TiendaOnline.java`, `Ejercicio4AgendaContactos.java` y
+`Ejercicio5NotasConCurva.java`. Cada una se puede compilar con `javac` y ejecutar
+con `java`, usando el nombre de su clase. La guía está en `LEEME.txt`.
+
 
